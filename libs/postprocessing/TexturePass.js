@@ -1,6 +1,4 @@
-/**
- * @author alteredq / http://alteredqualia.com/
- */
+
 
 THREE.TexturePass = function ( texture, opacity ) {
 

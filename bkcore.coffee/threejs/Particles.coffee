@@ -1,9 +1,4 @@
-###
-  Particle system wrapper/helper
-  
-  @class bkcore.threejs.Particles
-  @author Thibaut 'BKcore' Despoulain <http://bkcore.com>
-###
+
 class Particles
 
   ###

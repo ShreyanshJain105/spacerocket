@@ -1,6 +1,3 @@
-/**
- * @author alteredq / http://alteredqualia.com/
- */
 
 THREE.BloomPass = function ( strength, kernelSize, sigma, resolution ) {
 

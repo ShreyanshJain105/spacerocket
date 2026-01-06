@@ -1,6 +1,3 @@
-/**
- * @author alteredq / http://alteredqualia.com/
- */
 
 THREE.EffectComposer = function ( renderer, renderTarget ) {
 

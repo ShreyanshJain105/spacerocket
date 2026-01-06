@@ -1,10 +1,4 @@
-/*!
- * @class bkcore.threejs.Preloader
- *
- * Displays a small 3D preloader scene
- * 
- * @author Thibaut 'BKcore' Despoulain <http://bkcore.com>
- */
+
 
 /*!
  * @package bkcore.threejs
